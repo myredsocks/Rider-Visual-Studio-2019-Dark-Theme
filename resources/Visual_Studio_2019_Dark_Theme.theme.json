@@ -1,11 +1,11 @@
 {
-  "name": "Visual Studio 2019 Dark",
+  "name": "Visual Studio 2022 Black",
   "dark": true,
   "author": "GMIKE",
   "editorScheme": "/Visual_Studio_2019_Dark_Theme.xml",
   "ui": {
     "*": {
-      "background": "#323232",
+      "background": "#000000",
       "selectionBackground": "$selectionBackground",
       "selectionForeground": "$selectionForeground",
       "selectionInactiveBackground": "$selectionBackgroundInactive",
@@ -492,7 +492,7 @@
       "separatorColor": "$separator"
     },
     "TitlePane": {
-      "background": "#2d2d30",
+      "background": "#000000",
       "inactiveBackground": "$panelBackground",
       "infoForeground": "$mutedForeground",
       "inactiveInfoForeground": "$disabledForeground"
@@ -524,21 +524,21 @@
     "OptionPane.background": "$panelBackground"
   },
   "colors": {
-    "$titleBackground": "#2d2d30",
+    "$titleBackground": "#000000",
     "$selectionBackground": "#354f85",
     "$selectionUnderline": "#4c679e",
     "$selectionBackgroundInactive": "#4a4d51",
     "$selectionUnderlineInactive": "#606469",
     "$selectionForeground": "#EEEEEE",
     "$selectionForegroundInactive": "#EEEEEE",
-    "$border": "#3f3f46",
+    "$border": "#000000",
     "$controlBorder": "#242424",
-    "$separator": "#3f3f46",
+    "$separator": "#000000",
     "$focusedBorder": "#182C57",
     "$controlFocus": "#354f85C0",
     "$popupBorder": "#585858",
-    "$toolwindowBackground": "#2d2d30",
-    "$panelBackground": "#2d2d30",
+    "$toolwindowBackground": "#000000",
+    "$panelBackground": "#000000",
     "$regularForeground": "#f1f1f1",
     "$mutedForeground": "#9999A8",
     "$disabledForeground": "#6A6A70",
@@ -547,7 +547,7 @@
     "$tabBackgroundSelected": "#2C2C2C",
     "$linkRegular": "#789ADB",
     "$linkAccented": "#5F94FF",
-    "$buttonFace": "#424447",
+    "$buttonFace": "#000000",
     "$notificationBackground": "#333C4D",
     "$notificationBorder": "#4B566B",
     "$notificationForeground": "#C4DAFF",
